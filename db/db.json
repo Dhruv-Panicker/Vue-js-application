@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "email": "dhruv@test.ca",
+      "name": "Dhruv",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "email": "chamdijan",
+      "password": "sdfsd",
+      "name": "tony ",
+      "id": 2
+    },
+    {
+      "email": "bruce@test",
+      "password": "123",
+      "name": "bruce",
+      "id": 3
+    },
+    {
+      "email": "sam@test.ca",
+      "password": "2345",
+      "name": "Sam",
+      "id": 4
+    },
+    {
+      "email": "JohnDoe@test.ca",
+      "password": "1111",
+      "name": "John",
+      "id": 5
+    },
+    {
+      "email": "Test@test",
+      "password": "0000",
+      "name": "John ",
+      "id": 6
+    }
+  ]
+}
